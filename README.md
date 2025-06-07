@@ -2,7 +2,7 @@
 
 A simple, mobile-friendly Rock Paper Scissors game built with HTML, CSS, and JavaScript.
 ## Live Demo
-Play the game :- (https://your-username.github.io/rock-paper-scissors-game/](https://thumira2010.github.io/rock-paper-scissors-game/)
+Play the game :- (https://thumira2010.github.io/rock-paper-scissors-game/)
 
 ## Features
 - Responsive design
